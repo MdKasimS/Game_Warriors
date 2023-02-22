@@ -1,0 +1,15 @@
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/bin/Debug/net7.0/Game_Warriors
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/bin/Debug/net7.0/Game_Warriors.deps.json
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/bin/Debug/net7.0/Game_Warriors.runtimeconfig.json
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/bin/Debug/net7.0/Game_Warriors.dll
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/bin/Debug/net7.0/Game_Warriors.pdb
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.csproj.AssemblyReference.cache
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.GeneratedMSBuildEditorConfig.editorconfig
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.AssemblyInfoInputs.cache
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.AssemblyInfo.cs
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.csproj.CoreCompileInputs.cache
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.dll
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/refint/Game_Warriors.dll
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.pdb
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/Game_Warriors.genruntimeconfig.cache
+/home/smk1299/RND/CSharp/Basic/Game_Warriors/obj/Debug/net7.0/ref/Game_Warriors.dll
