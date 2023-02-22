@@ -11,12 +11,12 @@ Random randomAttack = new System.Random();
 
 while(heroHealth>0 && monsterHealth>0)
 {
-    attack = randomAttack.Next()%10;
+    attack = randomAttack.Next(1,11);
     monsterHealth-=attack;
     Console.WriteLine($"Monster was damaged and lost {attack} and has now {monsterHealth} health");
 
     if(monsterHealth>0){
-        attack = randomAttack.Next()%10;
+        attack = randomAttack.Next(1,11);
         heroHealth-=attack;
         Console.WriteLine($"Hero was damaged and lost {attack} and has {heroHealth}");
     }
